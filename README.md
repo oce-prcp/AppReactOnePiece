@@ -16,7 +16,7 @@ Projet App ReactJS en lien avec OnePiece
 # Code
 
 * Nicolas Tondeur
-* Corenthin LEBRETON
+* Corenthin Lebreton
 
 --------------------------
 
